@@ -1,0 +1,14 @@
+Troubleshooting:
+
+~ Problem Faced:
+The PIR sensor was not providing accurate readings and was overly sensitive, causing the LED to turn ON even when no motion was present.
+~ Solution:
+The sensitivity and delay were adjusted.
+However, inconsistent readings still occurred.
+To overcome this issue, the PIR sensor was replaced with an IR sensor, which provided more stable and reliable motion detection.
+
+Future Improvements:
+
+~ Replace Arduion with ESP32.
+~ Add IoT dashboard.
+~ Mobile app control.
