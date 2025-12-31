@@ -37,11 +37,11 @@ The light turns ON only when it is dark and motion is detected, helping save ene
 2.   LED    | Arduion Pin |
     ~ Cathode(-) - GND
     ~ Anode(+)  - D9
-     220Ω Resistor between anode and D9 pin.
+     (220Ω Resistor between anode and D9 pin.)
  3.   LDR   | Arduion Pin |
      ~ one side - 5V
      ~ other side - A0
-     10kΩ Resistor between other side and A0 pin.
+     (10kΩ Resistor between other side and A0 pin.)
 ---
 
 💻 Arduino Code
